@@ -2,6 +2,11 @@
 // ---------------------------------------/
 
 // util
+a.pretty-link {
+  position: fixed;
+  right: 5%;
+  top: 5%;
+}
 
 .section-header {
   @include section_border;
